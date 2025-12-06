@@ -1,0 +1,8 @@
+{
+  "name": "Copy of jj",
+  "description": "A fully functional calculator that transforms into a secure, PIN-protected encrypted chat interface when a secret code (1234=) is entered.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
